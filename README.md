@@ -95,7 +95,7 @@ Free online declarations submitted shortly before arrival. They are not visas.
 ## Health
 
 - [CDC Travelers' Health](https://wwwnc.cdc.gov/travel) - Vaccines, medicines and health notices by destination.
-- [Fit for Travel](https://www.fitfortravel.nhs.uk/) - Destination health advice from NHS Scotland.
+- [NHS Inform — Travel health](https://www.nhsinform.scot/healthy-living/travel-health/travel-health-and-vaccinations/) - Travel vaccinations and health advice from NHS Scotland (replaces the retired Fit for Travel site).
 - [TravelHealthPro](https://travelhealthpro.org.uk/) - UK National Travel Health Network and Centre country information.
 - [WHO — Travel and health](https://www.who.int/health-topics/travel-and-health) - World Health Organization guidance.
 
