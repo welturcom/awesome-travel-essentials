@@ -1,0 +1,13 @@
+# Sites that block automated link checkers or GitHub's servers.
+# They open normally in a browser, so they are skipped by the weekly check.
+# Check them by hand from time to time.
+^https://kbbi\.kemdikbud\.go\.id
+^https://www\.bi\.go\.id
+^https://kcic\.co\.id
+^https://www\.pelni\.co\.id
+^https://www\.injourneyairports\.id
+^https://www\.k-eta\.go\.kr
+^https://www\.smartraveller\.gov\.au
+^https://www\.canada\.ca
+^https://hdsunflower\.com
+^https://www\.traveloka\.com
