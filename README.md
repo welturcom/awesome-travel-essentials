@@ -137,6 +137,7 @@ Free online declarations submitted shortly before arrival. They are not visas.
 - [Airbnb](https://www.airbnb.com/) - Homes and experiences.
 - [Hostelworld](https://www.hostelworld.com/) - Hostels worldwide.
 - [Couchsurfing](https://www.couchsurfing.com/) - Stay with locals and meet travelers.
+- [CheckInAge](https://checkinage.com/) - Minimum check-in age (18+ or 21+) for 1,000+ US hotels, each linked to the hotel's official policy page.
 
 ## Money
 
