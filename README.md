@@ -38,6 +38,7 @@ Maintained by **[Weltur](https://www.weltur.com)**, tours and activities worldwi
 
 ## Plan & Get Inspired
 
+- [China Travel Check](https://gochina.taoliapp.com/) - Verified English field manual for independent mainland China travel: payments, eSIM, visas, trains, and apps.
 - [Wikivoyage](https://en.wikivoyage.org/) - Free, community-written travel guide to destinations worldwide.
 - [UNESCO World Heritage List](https://whc.unesco.org/en/list/) - Every World Heritage site, searchable by country and type.
 - [Atlas Obscura](https://www.atlasobscura.com/) - Unusual and hidden places around the world.
